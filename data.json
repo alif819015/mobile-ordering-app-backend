@@ -1,0 +1,763 @@
+[
+    {
+      "id": 1,
+      "brand": "Samsung",
+      "name": "Galaxy S21",
+      "storage": "256GB",
+      "camera": "108 MP (main), 40 MP (front)",
+      "price": "$899.99",
+      "releaseDate": "2022-03-15",
+      "weight": "170 grams",
+      "rating": 4.8,
+      "charger": "USB-C Fast Charger",
+      "display": {
+        "type": "Dynamic AMOLED",
+        "size": "6.7 inches",
+        "resolution": "1440 x 3200 pixels",
+        "refreshRate": "120Hz"
+      },
+      "image": "samsung_galaxy_s21.jpg"
+    },
+    {
+      "id": 2,
+      "brand": "Apple",
+      "name": "iPhone 13 Pro",
+      "storage": "512GB",
+      "camera": "12 MP (main), 12 MP (ultrawide), 12 MP (telephoto), 12 MP (front)",
+      "price": "$1,099.99",
+      "releaseDate": "2021-09-14",
+      "weight": "189 grams",
+      "rating": 4.9,
+      "charger": "MagSafe Charger",
+      "display": {
+        "type": "Super Retina XDR OLED",
+        "size": "6.1 inches",
+        "resolution": "2532 x 1170 pixels",
+        "refreshRate": "ProMotion technology"
+      },
+      "image": "iphone_13_pro.jpg"
+    },
+    {
+      "id": 3,
+      "brand": "Google",
+      "name": "Pixel 6",
+      "storage": "128GB",
+      "camera": "50 MP (main), 12 MP (ultrawide), 8 MP (front)",
+      "price": "$799.99",
+      "releaseDate": "2022-10-19",
+      "weight": "210 grams",
+      "rating": 4.7,
+      "charger": "USB-C 30W Charger",
+      "display": {
+        "type": "OLED",
+        "size": "6.4 inches",
+        "resolution": "1080 x 2400 pixels",
+        "refreshRate": "90Hz"
+      },
+      "image": "google_pixel_6.jpg"
+    },
+    {
+      "id": 4,
+      "brand": "OnePlus",
+      "name": "9 Pro",
+      "storage": "256GB",
+      "camera": "48 MP (main), 8 MP (ultrawide), 16 MP (front)",
+      "price": "$899.00",
+      "releaseDate": "2021-03-23",
+      "weight": "197 grams",
+      "rating": 4.6,
+      "charger": "Warp Charge 65T",
+      "display": {
+        "type": "Fluid AMOLED",
+        "size": "6.7 inches",
+        "resolution": "1440 x 3216 pixels",
+        "refreshRate": "120Hz"
+      },
+      "image": "oneplus_9_pro.jpg"
+    },
+    {
+      "id": 5,
+      "brand": "Xiaomi",
+      "name": "Mi 11",
+      "storage": "128GB",
+      "camera": "108 MP (main), 13 MP (ultrawide), 5 MP (macro), 20 MP (front)",
+      "price": "$699.99",
+      "releaseDate": "2021-12-28",
+      "weight": "196 grams",
+      "rating": 4.7,
+      "charger": "Mi TurboCharge 55W",
+      "display": {
+        "type": "AMOLED",
+        "size": "6.81 inches",
+        "resolution": "1440 x 3200 pixels",
+        "refreshRate": "120Hz"
+      },
+      "image": "xiaomi_mi_11.jpg"
+    },
+    {
+      "id": 6,
+      "brand": "LG",
+      "name": "G8 ThinQ",
+      "storage": "128GB",
+      "camera": "12 MP (main), 8 MP (ultrawide), 8 MP (front)",
+      "price": "$599.99",
+      "releaseDate": "2021-05-10",
+      "weight": "167 grams",
+      "rating": 4.5,
+      "charger": "USB-C Fast Charger",
+      "display": {
+        "type": "OLED",
+        "size": "6.1 inches",
+        "resolution": "1440 x 3120 pixels",
+        "refreshRate": "60Hz"
+      },
+      "image": "lg_g8_thinq.jpg"
+    },
+    {
+      "id": 7,
+      "brand": "Sony",
+      "name": "Xperia 5 III",
+      "storage": "256GB",
+      "camera": "12 MP (main), 12 MP (ultrawide), 12 MP (telephoto), 8 MP (front)",
+      "price": "$999.99",
+      "releaseDate": "2022-07-15",
+      "weight": "168 grams",
+      "rating": 4.8,
+      "charger": "USB-C PD Charger",
+      "display": {
+        "type": "HDR OLED",
+        "size": "6.1 inches",
+        "resolution": "1080 x 2520 pixels",
+        "refreshRate": "120Hz"
+      },
+      "image": "sony_xperia_5_iii.jpg"
+    },
+    {
+      "id": 8,
+      "brand": "Motorola",
+      "name": "Edge Plus",
+      "storage": "256GB",
+      "camera": "108 MP (main), 16 MP (ultrawide), 8 MP (front)",
+      "price": "$899.99",
+      "releaseDate": "2022-02-28",
+      "weight": "203 grams",
+      "rating": 4.6,
+      "charger": "TurboPower 30W",
+      "display": {
+        "type": "AMOLED",
+        "size": "6.7 inches",
+        "resolution": "1080 x 2340 pixels",
+        "refreshRate": "144Hz"
+      },
+      "image": "motorola_edge_plus.jpg"
+    },
+    {
+      "id": 9,
+      "brand": "Huawei",
+      "name": "P50 Pro",
+      "storage": "256GB",
+      "camera": "50 MP (main), 40 MP (ultrawide), 13 MP (periscope telephoto), 13 MP (front)",
+      "price": "$1,199.99",
+      "releaseDate": "2022-06-20",
+      "weight": "195 grams",
+      "rating": 4.7,
+      "charger": "SuperCharge 66W",
+      "display": {
+        "type": "OLED",
+        "size": "6.6 inches",
+        "resolution": "1228 x 2700 pixels",
+        "refreshRate": "120Hz"
+      },
+      "image": "huawei_p50_pro.jpg"
+    },
+    {
+      "id": 10,
+      "brand": "Nokia",
+      "name": "X100",
+      "storage": "128GB",
+      "camera": "48 MP (main), 5 MP (ultrawide), 16 MP (front)",
+      "price": "$399.99",
+      "releaseDate": "2021-11-05",
+      "weight": "220 grams",
+      "rating": 4.4,
+      "charger": "USB-C Fast Charger",
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.67 inches",
+        "resolution": "1080 x 2400 pixels",
+        "refreshRate": "60Hz"
+      },
+      "image": "nokia_x100.jpg"
+    },
+    {
+        "id": 11,
+        "brand": "Samsung",
+        "name": "Galaxy S21",
+        "storage": "256GB",
+        "camera": "108 MP (main), 40 MP (front)",
+        "price": "$899.99",
+        "releaseDate": "2022-03-15",
+        "weight": "170 grams",
+        "rating": 4.8,
+        "charger": "USB-C Fast Charger",
+        "display": {
+          "type": "Dynamic AMOLED",
+          "size": "6.7 inches",
+          "resolution": "1440 x 3200 pixels",
+          "refreshRate": "120Hz"
+        },
+        "image": "samsung_galaxy_s21.jpg"
+      },
+      {
+        "id": 12,
+        "brand": "Apple",
+        "name": "iPhone 13 Pro",
+        "storage": "512GB",
+        "camera": "12 MP (main), 12 MP (ultrawide), 12 MP (telephoto), 12 MP (front)",
+        "price": "$1,099.99",
+        "releaseDate": "2021-09-14",
+        "weight": "189 grams",
+        "rating": 4.9,
+        "charger": "MagSafe Charger",
+        "display": {
+          "type": "Super Retina XDR OLED",
+          "size": "6.1 inches",
+          "resolution": "2532 x 1170 pixels",
+          "refreshRate": "ProMotion technology"
+        },
+        "image": "iphone_13_pro.jpg"
+      },
+      {
+        "id": 13,
+        "brand": "Google",
+        "name": "Pixel 6",
+        "storage": "128GB",
+        "camera": "50 MP (main), 12 MP (ultrawide), 8 MP (front)",
+        "price": "$799.99",
+        "releaseDate": "2022-10-19",
+        "weight": "210 grams",
+        "rating": 4.7,
+        "charger": "USB-C 30W Charger",
+        "display": {
+          "type": "OLED",
+          "size": "6.4 inches",
+          "resolution": "1080 x 2400 pixels",
+          "refreshRate": "90Hz"
+        },
+        "image": "google_pixel_6.jpg"
+      },
+      {
+        "id": 14,
+        "brand": "OnePlus",
+        "name": "9 Pro",
+        "storage": "256GB",
+        "camera": "48 MP (main), 8 MP (ultrawide), 16 MP (front)",
+        "price": "$899.00",
+        "releaseDate": "2021-03-23",
+        "weight": "197 grams",
+        "rating": 4.6,
+        "charger": "Warp Charge 65T",
+        "display": {
+          "type": "Fluid AMOLED",
+          "size": "6.7 inches",
+          "resolution": "1440 x 3216 pixels",
+          "refreshRate": "120Hz"
+        },
+        "image": "oneplus_9_pro.jpg"
+      },
+      {
+        "id": 15,
+        "brand": "Xiaomi",
+        "name": "Mi 11",
+        "storage": "128GB",
+        "camera": "108 MP (main), 13 MP (ultrawide), 5 MP (macro), 20 MP (front)",
+        "price": "$699.99",
+        "releaseDate": "2021-12-28",
+        "weight": "196 grams",
+        "rating": 4.7,
+        "charger": "Mi TurboCharge 55W",
+        "display": {
+          "type": "AMOLED",
+          "size": "6.81 inches",
+          "resolution": "1440 x 3200 pixels",
+          "refreshRate": "120Hz"
+        },
+        "image": "xiaomi_mi_11.jpg"
+      },
+      {
+        "id": 16,
+        "brand": "LG",
+        "name": "G8 ThinQ",
+        "storage": "128GB",
+        "camera": "12 MP (main), 8 MP (ultrawide), 8 MP (front)",
+        "price": "$599.99",
+        "releaseDate": "2021-05-10",
+        "weight": "167 grams",
+        "rating": 4.5,
+        "charger": "USB-C Fast Charger",
+        "display": {
+          "type": "OLED",
+          "size": "6.1 inches",
+          "resolution": "1440 x 3120 pixels",
+          "refreshRate": "60Hz"
+        },
+        "image": "lg_g8_thinq.jpg"
+      },
+      {
+        "id": 17,
+        "brand": "Sony",
+        "name": "Xperia 5 III",
+        "storage": "256GB",
+        "camera": "12 MP (main), 12 MP (ultrawide), 12 MP (telephoto), 8 MP (front)",
+        "price": "$999.99",
+        "releaseDate": "2022-07-15",
+        "weight": "168 grams",
+        "rating": 4.8,
+        "charger": "USB-C PD Charger",
+        "display": {
+          "type": "HDR OLED",
+          "size": "6.1 inches",
+          "resolution": "1080 x 2520 pixels",
+          "refreshRate": "120Hz"
+        },
+        "image": "sony_xperia_5_iii.jpg"
+      },
+      {
+        "id": 18,
+        "brand": "Motorola",
+        "name": "Edge Plus",
+        "storage": "256GB",
+        "camera": "108 MP (main), 16 MP (ultrawide), 8 MP (front)",
+        "price": "$899.99",
+        "releaseDate": "2022-02-28",
+        "weight": "203 grams",
+        "rating": 4.6,
+        "charger": "TurboPower 30W",
+        "display": {
+          "type": "AMOLED",
+          "size": "6.7 inches",
+          "resolution": "1080 x 2340 pixels",
+          "refreshRate": "144Hz"
+        },
+        "image": "motorola_edge_plus.jpg"
+      },
+      {
+        "id": 19,
+        "brand": "Huawei",
+        "name": "P50 Pro",
+        "storage": "256GB",
+        "camera": "50 MP (main), 40 MP (ultrawide), 13 MP (periscope telephoto), 13 MP (front)",
+        "price": "$1,199.99",
+        "releaseDate": "2022-06-20",
+        "weight": "195 grams",
+        "rating": 4.7,
+        "charger": "SuperCharge 66W",
+        "display": {
+          "type": "OLED",
+          "size": "6.6 inches",
+          "resolution": "1228 x 2700 pixels",
+          "refreshRate": "120Hz"
+        },
+        "image": "huawei_p50_pro.jpg"
+      },
+      {
+        "id": 20,
+        "brand": "Huawei",
+        "name": "P50 Pro",
+        "storage": "256GB",
+        "camera": "50 MP (main), 40 MP (ultrawide), 13 MP (periscope telephoto), 13 MP (front)",
+        "price": "$1,199.99",
+        "releaseDate": "2022-06-20",
+        "weight": "195 grams",
+        "rating": 4.7,
+        "charger": "SuperCharge 66W",
+        "display": {
+          "type": "OLED",
+          "size": "6.6 inches",
+          "resolution": "1228 x 2700 pixels",
+          "refreshRate": "120Hz"
+        },
+        "image": "huawei_p50_pro.jpg"
+      },
+      {
+        "id": 21,
+        "brand": "Samsung",
+        "name": "Galaxy S21",
+        "storage": "256GB",
+        "camera": "108 MP (main), 40 MP (front)",
+        "price": "$899.99",
+        "releaseDate": "2022-03-15",
+        "weight": "170 grams",
+        "rating": 4.8,
+        "charger": "USB-C Fast Charger",
+        "display": {
+          "type": "Dynamic AMOLED",
+          "size": "6.7 inches",
+          "resolution": "1440 x 3200 pixels",
+          "refreshRate": "120Hz"
+        },
+        "image": "samsung_galaxy_s21.jpg"
+      },
+      {
+        "id": 22,
+        "brand": "Apple",
+        "name": "iPhone 13 Pro",
+        "storage": "512GB",
+        "camera": "12 MP (main), 12 MP (ultrawide), 12 MP (telephoto), 12 MP (front)",
+        "price": "$1,099.99",
+        "releaseDate": "2021-09-14",
+        "weight": "189 grams",
+        "rating": 4.9,
+        "charger": "MagSafe Charger",
+        "display": {
+          "type": "Super Retina XDR OLED",
+          "size": "6.1 inches",
+          "resolution": "2532 x 1170 pixels",
+          "refreshRate": "ProMotion technology"
+        },
+        "image": "iphone_13_pro.jpg"
+      },
+      {
+        "id": 23,
+        "brand": "Google",
+        "name": "Pixel 6",
+        "storage": "128GB",
+        "camera": "50 MP (main), 12 MP (ultrawide), 8 MP (front)",
+        "price": "$799.99",
+        "releaseDate": "2022-10-19",
+        "weight": "210 grams",
+        "rating": 4.7,
+        "charger": "USB-C 30W Charger",
+        "display": {
+          "type": "OLED",
+          "size": "6.4 inches",
+          "resolution": "1080 x 2400 pixels",
+          "refreshRate": "90Hz"
+        },
+        "image": "google_pixel_6.jpg"
+      },
+      {
+        "id": 24,
+        "brand": "OnePlus",
+        "name": "9 Pro",
+        "storage": "256GB",
+        "camera": "48 MP (main), 8 MP (ultrawide), 16 MP (front)",
+        "price": "$899.00",
+        "releaseDate": "2021-03-23",
+        "weight": "197 grams",
+        "rating": 4.6,
+        "charger": "Warp Charge 65T",
+        "display": {
+          "type": "Fluid AMOLED",
+          "size": "6.7 inches",
+          "resolution": "1440 x 3216 pixels",
+          "refreshRate": "120Hz"
+        },
+        "image": "oneplus_9_pro.jpg"
+      },
+      {
+        "id": 25,
+        "brand": "Xiaomi",
+        "name": "Mi 11",
+        "storage": "128GB",
+        "camera": "108 MP (main), 13 MP (ultrawide), 5 MP (macro), 20 MP (front)",
+        "price": "$699.99",
+        "releaseDate": "2021-12-28",
+        "weight": "196 grams",
+        "rating": 4.7,
+        "charger": "Mi TurboCharge 55W",
+        "display": {
+          "type": "AMOLED",
+          "size": "6.81 inches",
+          "resolution": "1440 x 3200 pixels",
+          "refreshRate": "120Hz"
+        },
+        "image": "xiaomi_mi_11.jpg"
+      },
+      {
+        "id": 26,
+        "brand": "LG",
+        "name": "G8 ThinQ",
+        "storage": "128GB",
+        "camera": "12 MP (main), 8 MP (ultrawide), 8 MP (front)",
+        "price": "$599.99",
+        "releaseDate": "2021-05-10",
+        "weight": "167 grams",
+        "rating": 4.5,
+        "charger": "USB-C Fast Charger",
+        "display": {
+          "type": "OLED",
+          "size": "6.1 inches",
+          "resolution": "1440 x 3120 pixels",
+          "refreshRate": "60Hz"
+        },
+        "image": "lg_g8_thinq.jpg"
+      },
+      {
+        "id": 27,
+        "brand": "Sony",
+        "name": "Xperia 5 III",
+        "storage": "256GB",
+        "camera": "12 MP (main), 12 MP (ultrawide), 12 MP (telephoto), 8 MP (front)",
+        "price": "$999.99",
+        "releaseDate": "2022-07-15",
+        "weight": "168 grams",
+        "rating": 4.8,
+        "charger": "USB-C PD Charger",
+        "display": {
+          "type": "HDR OLED",
+          "size": "6.1 inches",
+          "resolution": "1080 x 2520 pixels",
+          "refreshRate": "120Hz"
+        },
+        "image": "sony_xperia_5_iii.jpg"
+      },
+      {
+        "id": 28,
+        "brand": "Motorola",
+        "name": "Edge Plus",
+        "storage": "256GB",
+        "camera": "108 MP (main), 16 MP (ultrawide), 8 MP (front)",
+        "price": "$899.99",
+        "releaseDate": "2022-02-28",
+        "weight": "203 grams",
+        "rating": 4.6,
+        "charger": "TurboPower 30W",
+        "display": {
+          "type": "AMOLED",
+          "size": "6.7 inches",
+          "resolution": "1080 x 2340 pixels",
+          "refreshRate": "144Hz"
+        },
+        "image": "motorola_edge_plus.jpg"
+      },
+      {
+        "id": 29,
+        "brand": "Huawei",
+        "name": "P50 Pro",
+        "storage": "256GB",
+        "camera": "50 MP (main), 40 MP (ultrawide), 13 MP (periscope telephoto), 13 MP (front)",
+        "price": "$1,199.99",
+        "releaseDate": "2022-06-20",
+        "weight": "195 grams",
+        "rating": 4.7,
+        "charger": "SuperCharge 66W",
+        "display": {
+          "type": "OLED",
+          "size": "6.6 inches",
+          "resolution": "1228 x 2700 pixels",
+          "refreshRate": "120Hz"
+        },
+        "image": "huawei_p50_pro.jpg"
+      },
+      {
+        "id": 30,
+        "brand": "Nokia",
+        "name": "X100",
+        "storage": "128GB",
+        "camera": "48 MP (main), 5 MP (ultrawide), 16 MP (front)",
+        "price": "$399.99",
+        "releaseDate": "2021-11-05",
+        "weight": "220 grams",
+        "rating": 4.4,
+        "charger": "USB-C Fast Charger",
+        "display": {
+          "type": "IPS LCD",
+          "size": "6.67 inches",
+          "resolution": "1080 x 2400 pixels",
+          "refreshRate": "60Hz"
+        },
+        "image": "nokia_x100.jpg"
+      },
+      {
+          "id": 31,
+          "brand": "Samsung",
+          "name": "Galaxy S21",
+          "storage": "256GB",
+          "camera": "108 MP (main), 40 MP (front)",
+          "price": "$899.99",
+          "releaseDate": "2022-03-15",
+          "weight": "170 grams",
+          "rating": 4.8,
+          "charger": "USB-C Fast Charger",
+          "display": {
+            "type": "Dynamic AMOLED",
+            "size": "6.7 inches",
+            "resolution": "1440 x 3200 pixels",
+            "refreshRate": "120Hz"
+          },
+          "image": "samsung_galaxy_s21.jpg"
+        },
+        {
+          "id": 32,
+          "brand": "Apple",
+          "name": "iPhone 13 Pro",
+          "storage": "512GB",
+          "camera": "12 MP (main), 12 MP (ultrawide), 12 MP (telephoto), 12 MP (front)",
+          "price": "$1,099.99",
+          "releaseDate": "2021-09-14",
+          "weight": "189 grams",
+          "rating": 4.9,
+          "charger": "MagSafe Charger",
+          "display": {
+            "type": "Super Retina XDR OLED",
+            "size": "6.1 inches",
+            "resolution": "2532 x 1170 pixels",
+            "refreshRate": "ProMotion technology"
+          },
+          "image": "iphone_13_pro.jpg"
+        },
+        {
+          "id": 33,
+          "brand": "Google",
+          "name": "Pixel 6",
+          "storage": "128GB",
+          "camera": "50 MP (main), 12 MP (ultrawide), 8 MP (front)",
+          "price": "$799.99",
+          "releaseDate": "2022-10-19",
+          "weight": "210 grams",
+          "rating": 4.7,
+          "charger": "USB-C 30W Charger",
+          "display": {
+            "type": "OLED",
+            "size": "6.4 inches",
+            "resolution": "1080 x 2400 pixels",
+            "refreshRate": "90Hz"
+          },
+          "image": "google_pixel_6.jpg"
+        },
+        {
+          "id": 34,
+          "brand": "OnePlus",
+          "name": "9 Pro",
+          "storage": "256GB",
+          "camera": "48 MP (main), 8 MP (ultrawide), 16 MP (front)",
+          "price": "$899.00",
+          "releaseDate": "2021-03-23",
+          "weight": "197 grams",
+          "rating": 4.6,
+          "charger": "Warp Charge 65T",
+          "display": {
+            "type": "Fluid AMOLED",
+            "size": "6.7 inches",
+            "resolution": "1440 x 3216 pixels",
+            "refreshRate": "120Hz"
+          },
+          "image": "oneplus_9_pro.jpg"
+        },
+        {
+          "id": 35,
+          "brand": "Xiaomi",
+          "name": "Mi 11",
+          "storage": "128GB",
+          "camera": "108 MP (main), 13 MP (ultrawide), 5 MP (macro), 20 MP (front)",
+          "price": "$699.99",
+          "releaseDate": "2021-12-28",
+          "weight": "196 grams",
+          "rating": 4.7,
+          "charger": "Mi TurboCharge 55W",
+          "display": {
+            "type": "AMOLED",
+            "size": "6.81 inches",
+            "resolution": "1440 x 3200 pixels",
+            "refreshRate": "120Hz"
+          },
+          "image": "xiaomi_mi_11.jpg"
+        },
+        {
+          "id": 36,
+          "brand": "LG",
+          "name": "G8 ThinQ",
+          "storage": "128GB",
+          "camera": "12 MP (main), 8 MP (ultrawide), 8 MP (front)",
+          "price": "$599.99",
+          "releaseDate": "2021-05-10",
+          "weight": "167 grams",
+          "rating": 4.5,
+          "charger": "USB-C Fast Charger",
+          "display": {
+            "type": "OLED",
+            "size": "6.1 inches",
+            "resolution": "1440 x 3120 pixels",
+            "refreshRate": "60Hz"
+          },
+          "image": "lg_g8_thinq.jpg"
+        },
+        {
+          "id": 37,
+          "brand": "Sony",
+          "name": "Xperia 5 III",
+          "storage": "256GB",
+          "camera": "12 MP (main), 12 MP (ultrawide), 12 MP (telephoto), 8 MP (front)",
+          "price": "$999.99",
+          "releaseDate": "2022-07-15",
+          "weight": "168 grams",
+          "rating": 4.8,
+          "charger": "USB-C PD Charger",
+          "display": {
+            "type": "HDR OLED",
+            "size": "6.1 inches",
+            "resolution": "1080 x 2520 pixels",
+            "refreshRate": "120Hz"
+          },
+          "image": "sony_xperia_5_iii.jpg"
+        },
+        {
+          "id": 38,
+          "brand": "Motorola",
+          "name": "Edge Plus",
+          "storage": "256GB",
+          "camera": "108 MP (main), 16 MP (ultrawide), 8 MP (front)",
+          "price": "$899.99",
+          "releaseDate": "2022-02-28",
+          "weight": "203 grams",
+          "rating": 4.6,
+          "charger": "TurboPower 30W",
+          "display": {
+            "type": "AMOLED",
+            "size": "6.7 inches",
+            "resolution": "1080 x 2340 pixels",
+            "refreshRate": "144Hz"
+          },
+          "image": "motorola_edge_plus.jpg"
+        },
+        {
+          "id": 39,
+          "brand": "Huawei",
+          "name": "P50 Pro",
+          "storage": "256GB",
+          "camera": "50 MP (main), 40 MP (ultrawide), 13 MP (periscope telephoto), 13 MP (front)",
+          "price": "$1,199.99",
+          "releaseDate": "2022-06-20",
+          "weight": "195 grams",
+          "rating": 4.7,
+          "charger": "SuperCharge 66W",
+          "display": {
+            "type": "OLED",
+            "size": "6.6 inches",
+            "resolution": "1228 x 2700 pixels",
+            "refreshRate": "120Hz"
+          },
+          "image": "huawei_p50_pro.jpg"
+        },
+        {
+          "id": 40,
+          "brand": "Huawei",
+          "name": "P50 Pro",
+          "storage": "256GB",
+          "camera": "50 MP (main), 40 MP (ultrawide), 13 MP (periscope telephoto), 13 MP (front)",
+          "price": "$1,199.99",
+          "releaseDate": "2022-06-20",
+          "weight": "195 grams",
+          "rating": 4.7,
+          "charger": "SuperCharge 66W",
+          "display": {
+            "type": "OLED",
+            "size": "6.6 inches",
+            "resolution": "1228 x 2700 pixels",
+            "refreshRate": "120Hz"
+          },
+          "image": "huawei_p50_pro.jpg"
+        }
+  ]
+  
