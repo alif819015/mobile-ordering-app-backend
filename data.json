@@ -3,6 +3,8 @@
     "id": 1,
     "brand": "Samsung",
     "name": "Galaxy S21",
+    "type": "Smartphone",
+    "processor": "Exynos 2100 (Global) / Snapdragon 888 (USA)",
     "storage": "256GB",
     "camera": "108 MP (main), 40 MP (front)",
     "price": "$899.99",
@@ -16,13 +18,16 @@
       "resolution": "1440 x 3200 pixels",
       "refreshRate": "120Hz"
     },
+    "operatingSystem": "Android",
     "image": "https://i.ibb.co/YWGmSQZ/samsung-galaxy-s21-5g-0.jpg"
   },
   {
     "id": 2,
     "brand": "Apple",
     "name": "iPhone 13 Pro",
+    "type": "Smartphone",
     "storage": "512GB",
+    "processor": "A15 Bionic",
     "camera": "12 MP (main), 12 MP (ultrawide), 12 MP (telephoto), 12 MP (front)",
     "price": "$1,099.99",
     "releaseDate": "2021-09-14",
@@ -35,12 +40,15 @@
       "resolution": "2532 x 1170 pixels",
       "refreshRate": "ProMotion technology"
     },
+    "operatingSystem": "iOS",
     "image": "https://i.ibb.co/YWPwFJx/Apple-i-Phone-14.jpg"
   },
   {
     "id": 3,
     "brand": "Google",
     "name": "Pixel 6",
+    "type": "Smartphone",
+    "processor": "Google Tensor",
     "storage": "128GB",
     "camera": "50 MP (main), 12 MP (ultrawide), 8 MP (front)",
     "price": "$799.99",
@@ -54,12 +62,15 @@
       "resolution": "1080 x 2400 pixels",
       "refreshRate": "90Hz"
     },
+    "operatingSystem": "Android",
     "image": "https://i.ibb.co/WkjQMZt/Pixel-6-Sorta-Seafoam-800x800.png"
   },
   {
     "id": 4,
     "brand": "OnePlus",
     "name": "9 Pro",
+    "type": "Smartphone",
+    "processor": "Snapdragon 888",
     "storage": "256GB",
     "camera": "48 MP (main), 8 MP (ultrawide), 16 MP (front)",
     "price": "$899.00",
@@ -73,12 +84,15 @@
       "resolution": "1440 x 3216 pixels",
       "refreshRate": "120Hz"
     },
+    "operatingSystem": "OxygenOS (Android)",
     "image": "https://i.ibb.co/fkmd11G/9p-Pine-Green.png"
   },
   {
     "id": 5,
     "brand": "Xiaomi",
     "name": "Mi 11",
+    "type": "Smartphone",
+    "processor": "Snapdragon 888",
     "storage": "128GB",
     "camera": "108 MP (main), 13 MP (ultrawide), 5 MP (macro), 20 MP (front)",
     "price": "$699.99",
@@ -92,12 +106,15 @@
       "resolution": "1440 x 3200 pixels",
       "refreshRate": "120Hz"
     },
+    "operatingSystem": "MIUI (Android)",
     "image": "https://i.ibb.co/Kx5hNt4/Xiaomi-Mi-11-Pro-Purple.jpg"
   },
   {
     "id": 6,
     "brand": "LG",
     "name": "G8 ThinQ",
+    "type": "Smartphone",
+    "processor": "Snapdragon 855",
     "storage": "128GB",
     "camera": "12 MP (main), 8 MP (ultrawide), 8 MP (front)",
     "price": "$599.99",
@@ -111,12 +128,15 @@
       "resolution": "1440 x 3120 pixels",
       "refreshRate": "60Hz"
     },
+    "os": "Android",
     "image": "https://i.ibb.co/8m2hgMF/lg-g8-thinq-lm-g820n-big.jpg"
   },
   {
     "id": 7,
     "brand": "Sony",
     "name": "Xperia 5 III",
+    "type": "Smartphone",
+    "processor": "Snapdragon 870",
     "storage": "256GB",
     "camera": "12 MP (main), 12 MP (ultrawide), 12 MP (telephoto), 8 MP (front)",
     "price": "$999.99",
@@ -130,12 +150,15 @@
       "resolution": "1080 x 2520 pixels",
       "refreshRate": "120Hz"
     },
+    "os": "Android",
     "image": "https://i.ibb.co/5n5zh4J/sony-xperia-5-iii.jpg"
   },
   {
     "id": 8,
     "brand": "Motorola",
     "name": "Edge Plus",
+    "type": "Smartphone",
+    "processor": "Snapdragon 870",
     "storage": "256GB",
     "camera": "108 MP (main), 16 MP (ultrawide), 8 MP (front)",
     "price": "$899.99",
@@ -149,12 +172,15 @@
       "resolution": "1080 x 2340 pixels",
       "refreshRate": "144Hz"
     },
+    "os": "Android",
     "image": "https://i.ibb.co/ykLS7wJ/Motorola-Moto-Edge-Plus-5g-Smokey-Sangria.jpg"
   },
   {
     "id": 9,
     "brand": "Huawei",
     "name": "P50 Pro",
+    "type": "Smartphone",
+    "processor": "Kirin 9000",
     "storage": "256GB",
     "camera": "50 MP (main), 40 MP (ultrawide), 13 MP (periscope telephoto), 13 MP (front)",
     "price": "$1,199.99",
@@ -168,12 +194,15 @@
       "resolution": "1228 x 2700 pixels",
       "refreshRate": "120Hz"
     },
+    "os": "HarmonyOS",
     "image": "https://i.ibb.co/kmppPjr/4536-16104.jpg"
   },
   {
     "id": 10,
     "brand": "Nokia",
     "name": "X100",
+    "type": "Smartphone",
+    "processor": "Snapdragon 480",
     "storage": "128GB",
     "camera": "48 MP (main), 5 MP (ultrawide), 16 MP (front)",
     "price": "$399.99",
@@ -187,12 +216,15 @@
       "resolution": "1080 x 2400 pixels",
       "refreshRate": "60Hz"
     },
+    "os": "Android",
     "image": "https://i.ibb.co/JFHHrSD/nokia-x100.jpg"
   },
   {
     "id": 11,
     "brand": "Samsung",
     "name": "Galaxy S21",
+    "type": "Smartphone",
+    "processor": "Exynos 2100 (Global) / Snapdragon 888 (USA)",
     "storage": "256GB",
     "camera": "108 MP (main), 40 MP (front)",
     "price": "$899.99",
@@ -206,13 +238,16 @@
       "resolution": "1440 x 3200 pixels",
       "refreshRate": "120Hz"
     },
+    "operatingSystem": "Android",
     "image": "https://i.ibb.co/YWGmSQZ/samsung-galaxy-s21-5g-0.jpg"
   },
   {
     "id": 12,
     "brand": "Apple",
     "name": "iPhone 13 Pro",
+    "type": "Smartphone",
     "storage": "512GB",
+    "processor": "A15 Bionic",
     "camera": "12 MP (main), 12 MP (ultrawide), 12 MP (telephoto), 12 MP (front)",
     "price": "$1,099.99",
     "releaseDate": "2021-09-14",
@@ -225,12 +260,15 @@
       "resolution": "2532 x 1170 pixels",
       "refreshRate": "ProMotion technology"
     },
+    "operatingSystem": "iOS",
     "image": "https://i.ibb.co/YWPwFJx/Apple-i-Phone-14.jpg"
   },
   {
     "id": 13,
     "brand": "Google",
     "name": "Pixel 6",
+    "type": "Smartphone",
+    "processor": "Google Tensor",
     "storage": "128GB",
     "camera": "50 MP (main), 12 MP (ultrawide), 8 MP (front)",
     "price": "$799.99",
@@ -244,12 +282,15 @@
       "resolution": "1080 x 2400 pixels",
       "refreshRate": "90Hz"
     },
+    "operatingSystem": "Android",
     "image": "https://i.ibb.co/WkjQMZt/Pixel-6-Sorta-Seafoam-800x800.png"
   },
   {
     "id": 14,
     "brand": "Huawei",
     "name": "P50 Pro",
+    "type": "Smartphone",
+    "processor": "Kirin 9000",
     "storage": "256GB",
     "camera": "50 MP (main), 40 MP (ultrawide), 13 MP (periscope telephoto), 13 MP (front)",
     "price": "$1,199.99",
@@ -263,6 +304,7 @@
       "resolution": "1228 x 2700 pixels",
       "refreshRate": "120Hz"
     },
+    "os": "HarmonyOS",
     "image": "https://i.ibb.co/kmppPjr/4536-16104.jpg"
   },
 
@@ -270,6 +312,8 @@
     "id": 15,
     "brand": "Xiaomi",
     "name": "Mi 11",
+    "type": "Smartphone",
+    "processor": "Snapdragon 888",
     "storage": "128GB",
     "camera": "108 MP (main), 13 MP (ultrawide), 5 MP (macro), 20 MP (front)",
     "price": "$699.99",
@@ -283,12 +327,15 @@
       "resolution": "1440 x 3200 pixels",
       "refreshRate": "120Hz"
     },
+    "operatingSystem": "MIUI (Android)",
     "image": "https://i.ibb.co/Kx5hNt4/Xiaomi-Mi-11-Pro-Purple.jpg"
   },
   {
     "id": 16,
     "brand": "LG",
     "name": "G8 ThinQ",
+    "type": "Smartphone",
+    "processor": "Snapdragon 855",
     "storage": "128GB",
     "camera": "12 MP (main), 8 MP (ultrawide), 8 MP (front)",
     "price": "$599.99",
@@ -302,12 +349,15 @@
       "resolution": "1440 x 3120 pixels",
       "refreshRate": "60Hz"
     },
+    "os": "Android",
     "image": "https://i.ibb.co/8m2hgMF/lg-g8-thinq-lm-g820n-big.jpg"
   },
   {
     "id": 17,
     "brand": "Sony",
     "name": "Xperia 5 III",
+    "type": "Smartphone",
+    "processor": "Snapdragon 870",
     "storage": "256GB",
     "camera": "12 MP (main), 12 MP (ultrawide), 12 MP (telephoto), 8 MP (front)",
     "price": "$999.99",
@@ -321,12 +371,15 @@
       "resolution": "1080 x 2520 pixels",
       "refreshRate": "120Hz"
     },
+    "os": "Android",
     "image": "https://i.ibb.co/5n5zh4J/sony-xperia-5-iii.jpg"
   },
   {
     "id": 18,
     "brand": "Motorola",
     "name": "Edge Plus",
+    "type": "Smartphone",
+    "processor": "Snapdragon 870",
     "storage": "256GB",
     "camera": "108 MP (main), 16 MP (ultrawide), 8 MP (front)",
     "price": "$899.99",
@@ -340,12 +393,15 @@
       "resolution": "1080 x 2340 pixels",
       "refreshRate": "144Hz"
     },
+    "os": "Android",
     "image": "https://i.ibb.co/ykLS7wJ/Motorola-Moto-Edge-Plus-5g-Smokey-Sangria.jpg"
   },
   {
     "id": 19,
     "brand": "Huawei",
     "name": "P50 Pro",
+    "type": "Smartphone",
+    "processor": "Kirin 9000",
     "storage": "256GB",
     "camera": "50 MP (main), 40 MP (ultrawide), 13 MP (periscope telephoto), 13 MP (front)",
     "price": "$1,199.99",
@@ -359,12 +415,15 @@
       "resolution": "1228 x 2700 pixels",
       "refreshRate": "120Hz"
     },
+    "os": "HarmonyOS",
     "image": "https://i.ibb.co/kmppPjr/4536-16104.jpg"
   },
   {
     "id": 20,
     "brand": "OnePlus",
     "name": "9 Pro",
+    "type": "Smartphone",
+    "processor": "Snapdragon 888",
     "storage": "256GB",
     "camera": "48 MP (main), 8 MP (ultrawide), 16 MP (front)",
     "price": "$899.00",
@@ -378,6 +437,7 @@
       "resolution": "1440 x 3216 pixels",
       "refreshRate": "120Hz"
     },
+    "operatingSystem": "OxygenOS (Android)",
     "image": "https://i.ibb.co/fkmd11G/9p-Pine-Green.png"
   },
 
@@ -385,6 +445,8 @@
     "id": 21,
     "brand": "Samsung",
     "name": "Galaxy S21",
+    "type": "Smartphone",
+    "processor": "Exynos 2100 (Global) / Snapdragon 888 (USA)",
     "storage": "256GB",
     "camera": "108 MP (main), 40 MP (front)",
     "price": "$899.99",
@@ -398,13 +460,16 @@
       "resolution": "1440 x 3200 pixels",
       "refreshRate": "120Hz"
     },
+    "operatingSystem": "Android",
     "image": "https://i.ibb.co/YWGmSQZ/samsung-galaxy-s21-5g-0.jpg"
   },
   {
     "id": 22,
     "brand": "Apple",
     "name": "iPhone 13 Pro",
+    "type": "Smartphone",
     "storage": "512GB",
+    "processor": "A15 Bionic",
     "camera": "12 MP (main), 12 MP (ultrawide), 12 MP (telephoto), 12 MP (front)",
     "price": "$1,099.99",
     "releaseDate": "2021-09-14",
@@ -417,12 +482,15 @@
       "resolution": "2532 x 1170 pixels",
       "refreshRate": "ProMotion technology"
     },
+    "operatingSystem": "iOS",
     "image": "https://i.ibb.co/YWPwFJx/Apple-i-Phone-14.jpg"
   },
   {
     "id": 23,
     "brand": "Google",
     "name": "Pixel 6",
+    "type": "Smartphone",
+    "processor": "Google Tensor",
     "storage": "128GB",
     "camera": "50 MP (main), 12 MP (ultrawide), 8 MP (front)",
     "price": "$799.99",
@@ -436,12 +504,15 @@
       "resolution": "1080 x 2400 pixels",
       "refreshRate": "90Hz"
     },
+    "operatingSystem": "Android",
     "image": "https://i.ibb.co/WkjQMZt/Pixel-6-Sorta-Seafoam-800x800.png"
   },
   {
     "id": 24,
     "brand": "OnePlus",
     "name": "9 Pro",
+    "type": "Smartphone",
+    "processor": "Snapdragon 888",
     "storage": "256GB",
     "camera": "48 MP (main), 8 MP (ultrawide), 16 MP (front)",
     "price": "$899.00",
@@ -455,12 +526,15 @@
       "resolution": "1440 x 3216 pixels",
       "refreshRate": "120Hz"
     },
+    "operatingSystem": "OxygenOS (Android)",
     "image": "https://i.ibb.co/fkmd11G/9p-Pine-Green.png"
   },
   {
     "id": 25,
     "brand": "Xiaomi",
     "name": "Mi 11",
+    "type": "Smartphone",
+    "processor": "Snapdragon 888",
     "storage": "128GB",
     "camera": "108 MP (main), 13 MP (ultrawide), 5 MP (macro), 20 MP (front)",
     "price": "$699.99",
@@ -474,12 +548,15 @@
       "resolution": "1440 x 3200 pixels",
       "refreshRate": "120Hz"
     },
+    "operatingSystem": "MIUI (Android)",
     "image": "https://i.ibb.co/Kx5hNt4/Xiaomi-Mi-11-Pro-Purple.jpg"
   },
   {
     "id": 26,
     "brand": "LG",
     "name": "G8 ThinQ",
+    "type": "Smartphone",
+    "processor": "Snapdragon 855",
     "storage": "128GB",
     "camera": "12 MP (main), 8 MP (ultrawide), 8 MP (front)",
     "price": "$599.99",
@@ -493,12 +570,15 @@
       "resolution": "1440 x 3120 pixels",
       "refreshRate": "60Hz"
     },
+    "os": "Android",
     "image": "https://i.ibb.co/8m2hgMF/lg-g8-thinq-lm-g820n-big.jpg"
   },
   {
     "id": 27,
     "brand": "Sony",
     "name": "Xperia 5 III",
+    "type": "Smartphone",
+    "processor": "Snapdragon 870",
     "storage": "256GB",
     "camera": "12 MP (main), 12 MP (ultrawide), 12 MP (telephoto), 8 MP (front)",
     "price": "$999.99",
@@ -512,12 +592,15 @@
       "resolution": "1080 x 2520 pixels",
       "refreshRate": "120Hz"
     },
+    "os": "Android",
     "image": "https://i.ibb.co/5n5zh4J/sony-xperia-5-iii.jpg"
   },
   {
     "id": 28,
     "brand": "Motorola",
     "name": "Edge Plus",
+    "type": "Smartphone",
+    "processor": "Snapdragon 870",
     "storage": "256GB",
     "camera": "108 MP (main), 16 MP (ultrawide), 8 MP (front)",
     "price": "$899.99",
@@ -531,12 +614,15 @@
       "resolution": "1080 x 2340 pixels",
       "refreshRate": "144Hz"
     },
+    "os": "Android",
     "image": "https://i.ibb.co/ykLS7wJ/Motorola-Moto-Edge-Plus-5g-Smokey-Sangria.jpg"
   },
   {
     "id": 29,
     "brand": "Huawei",
     "name": "P50 Pro",
+    "type": "Smartphone",
+    "processor": "Kirin 9000",
     "storage": "256GB",
     "camera": "50 MP (main), 40 MP (ultrawide), 13 MP (periscope telephoto), 13 MP (front)",
     "price": "$1,199.99",
@@ -550,12 +636,15 @@
       "resolution": "1228 x 2700 pixels",
       "refreshRate": "120Hz"
     },
+    "os": "HarmonyOS",
     "image": "https://i.ibb.co/kmppPjr/4536-16104.jpg"
   },
   {
     "id": 30,
     "brand": "Nokia",
     "name": "X100",
+    "type": "Smartphone",
+    "processor": "Snapdragon 480",
     "storage": "128GB",
     "camera": "48 MP (main), 5 MP (ultrawide), 16 MP (front)",
     "price": "$399.99",
@@ -569,12 +658,15 @@
       "resolution": "1080 x 2400 pixels",
       "refreshRate": "60Hz"
     },
+    "os": "Android",
     "image": "https://i.ibb.co/JFHHrSD/nokia-x100.jpg"
   },
   {
     "id": 31,
     "brand": "Samsung",
     "name": "Galaxy S21",
+    "type": "Smartphone",
+    "processor": "Exynos 2100 (Global) / Snapdragon 888 (USA)",
     "storage": "256GB",
     "camera": "108 MP (main), 40 MP (front)",
     "price": "$899.99",
@@ -588,13 +680,16 @@
       "resolution": "1440 x 3200 pixels",
       "refreshRate": "120Hz"
     },
+    "operatingSystem": "Android",
     "image": "https://i.ibb.co/YWGmSQZ/samsung-galaxy-s21-5g-0.jpg"
   },
   {
     "id": 32,
     "brand": "Apple",
     "name": "iPhone 13 Pro",
+    "type": "Smartphone",
     "storage": "512GB",
+    "processor": "A15 Bionic",
     "camera": "12 MP (main), 12 MP (ultrawide), 12 MP (telephoto), 12 MP (front)",
     "price": "$1,099.99",
     "releaseDate": "2021-09-14",
@@ -607,12 +702,15 @@
       "resolution": "2532 x 1170 pixels",
       "refreshRate": "ProMotion technology"
     },
+    "operatingSystem": "iOS",
     "image": "https://i.ibb.co/YWPwFJx/Apple-i-Phone-14.jpg"
   },
   {
     "id": 33,
     "brand": "Google",
     "name": "Pixel 6",
+    "type": "Smartphone",
+    "processor": "Google Tensor",
     "storage": "128GB",
     "camera": "50 MP (main), 12 MP (ultrawide), 8 MP (front)",
     "price": "$799.99",
@@ -626,12 +724,15 @@
       "resolution": "1080 x 2400 pixels",
       "refreshRate": "90Hz"
     },
+    "operatingSystem": "Android",
     "image": "https://i.ibb.co/WkjQMZt/Pixel-6-Sorta-Seafoam-800x800.png"
   },
   {
     "id": 34,
     "brand": "OnePlus",
     "name": "9 Pro",
+    "type": "Smartphone",
+    "processor": "Snapdragon 888",
     "storage": "256GB",
     "camera": "48 MP (main), 8 MP (ultrawide), 16 MP (front)",
     "price": "$899.00",
@@ -645,12 +746,15 @@
       "resolution": "1440 x 3216 pixels",
       "refreshRate": "120Hz"
     },
+    "operatingSystem": "OxygenOS (Android)",
     "image": "https://i.ibb.co/fkmd11G/9p-Pine-Green.png"
   },
   {
     "id": 35,
     "brand": "Xiaomi",
     "name": "Mi 11",
+    "type": "Smartphone",
+    "processor": "Snapdragon 888",
     "storage": "128GB",
     "camera": "108 MP (main), 13 MP (ultrawide), 5 MP (macro), 20 MP (front)",
     "price": "$699.99",
@@ -664,12 +768,15 @@
       "resolution": "1440 x 3200 pixels",
       "refreshRate": "120Hz"
     },
+    "operatingSystem": "MIUI (Android)",
     "image": "https://i.ibb.co/Kx5hNt4/Xiaomi-Mi-11-Pro-Purple.jpg"
   },
   {
     "id": 36,
     "brand": "LG",
     "name": "G8 ThinQ",
+    "type": "Smartphone",
+    "processor": "Snapdragon 855",
     "storage": "128GB",
     "camera": "12 MP (main), 8 MP (ultrawide), 8 MP (front)",
     "price": "$599.99",
@@ -683,12 +790,15 @@
       "resolution": "1440 x 3120 pixels",
       "refreshRate": "60Hz"
     },
+    "os": "Android",
     "image": "https://i.ibb.co/8m2hgMF/lg-g8-thinq-lm-g820n-big.jpg"
   },
   {
     "id": 37,
     "brand": "Sony",
     "name": "Xperia 5 III",
+    "type": "Smartphone",
+    "processor": "Snapdragon 870",
     "storage": "256GB",
     "camera": "12 MP (main), 12 MP (ultrawide), 12 MP (telephoto), 8 MP (front)",
     "price": "$999.99",
@@ -702,12 +812,15 @@
       "resolution": "1080 x 2520 pixels",
       "refreshRate": "120Hz"
     },
+    "os": "Android",
     "image": "https://i.ibb.co/5n5zh4J/sony-xperia-5-iii.jpg"
   },
   {
     "id": 38,
     "brand": "Motorola",
     "name": "Edge Plus",
+    "type": "Smartphone",
+    "processor": "Snapdragon 870",
     "storage": "256GB",
     "camera": "108 MP (main), 16 MP (ultrawide), 8 MP (front)",
     "price": "$899.99",
@@ -721,12 +834,15 @@
       "resolution": "1080 x 2340 pixels",
       "refreshRate": "144Hz"
     },
+    "os": "Android",
     "image": "https://i.ibb.co/ykLS7wJ/Motorola-Moto-Edge-Plus-5g-Smokey-Sangria.jpg"
   },
   {
     "id": 39,
     "brand": "Huawei",
     "name": "P50 Pro",
+    "type": "Smartphone",
+    "processor": "Kirin 9000",
     "storage": "256GB",
     "camera": "50 MP (main), 40 MP (ultrawide), 13 MP (periscope telephoto), 13 MP (front)",
     "price": "$1,199.99",
@@ -740,6 +856,7 @@
       "resolution": "1228 x 2700 pixels",
       "refreshRate": "120Hz"
     },
+    "os": "HarmonyOS",
     "image": "https://i.ibb.co/kmppPjr/4536-16104.jpg"
   }
 ]
